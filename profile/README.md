@@ -1,4 +1,4 @@
-<p align='center>
+<p align='center'>
     <img src='../main/WarPLogo-dark.jpg' width='100px' height='100px' alt='WarP Logo' />    
 </p>
 
