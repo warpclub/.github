@@ -1,6 +1,6 @@
-<center>
+<p align='center>
     <img src='../main/WarPLogo-dark.jpg' width='100px' height='100px' alt='WarP Logo' />    
-</center>
+</p>
 
 <h1 align='center'>WarP - We Are Radical Professionals</h1>
 
