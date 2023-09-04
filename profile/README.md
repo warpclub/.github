@@ -1,5 +1,10 @@
 <p align='center'>
-    <img src='./WarPLogo-dark.jpg' width='100px' height='100px' alt='WarP Logo' />    
+    <img 
+        src='https://github.com/warpclub/.github/raw/f018f68e408fbd042aaa2e23ee84a075a218092b/profile/WarPLogo-dark.jpg'
+        width='100px' 
+        height='100px' 
+        alt='WarP Logo' 
+    />    
 </p>
 
 <h1 align='center'>WarP - We Are Radical Professionals</h1>
@@ -23,7 +28,7 @@ Our mission is to foster innovation, learning, and collaboration within the tech
 
 Whether you're a student, a tech enthusiast, or simply interested in what we do, there are various ways to get involved:
 
-- **Join Us**: If you're a student at Delhi Public School, Mathura Road, consider [becoming a member of our club](./MEMBERSHIP.md).
+- **Join Us**: If you're a student at Delhi Public School, Mathura Road, consider [becoming a member of our club](https://github.com/warpclub/.github/blob/f018f68e408fbd042aaa2e23ee84a075a218092b/profile/MEMBERSHIP.md).
 
 - **Stay Informed**: Keep up with our latest events, projects, and tech resources by following us on social media and visiting our website.
 
